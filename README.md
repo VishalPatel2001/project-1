@@ -1,10 +1,10 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *HelloWorld App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Vishal Patel**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
