@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world_my_name_is_vishal_i_am_a_computer_engineering_major_and_i_am_excited_to_learn_more_about_kotlin">Hello World! My name is Vishal, I am a computer engineering major and I am excited to learn more about Kotlin.</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="vishal_photo_image">Vishal photo image</string>
+</resources>
